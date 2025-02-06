@@ -1,4 +1,10 @@
 node_modules/
 .env
 .DS_Store
-*.log 
+*.log
+# IDE files
+.idea/
+.vscode/
+# Build files
+dist/
+build/ 
