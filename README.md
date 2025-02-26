@@ -87,4 +87,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [suryavanshijay65@gmail.com]
 
+<<<<<<< HEAD
 Project Link: [https://github.com/jaysuryawanshi65/ai-background-remover]
+=======
+Project Link: [https://github.com/jaysuryawanshi65/ai-background-remover]
+>>>>>>> 652cb7c0c352c4d8a66dfa03212a9b0c48faed2e
